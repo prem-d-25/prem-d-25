@@ -2,9 +2,12 @@
 
 Computer Engineering Student | MERN Stack Developer
 
-🔭 I’m currently working on enhancing my Role Met project, building real-time analytics and Job finding pltform.
+🔭 I’m currently working on enhancing my Role Met project, building real-time analytics and Job finding pltform. 
+
 💛 I’m looking to help with optimizing backend APIs and creating intrective UI.
+
 💬 Ask me about my Tea Insights and Stylzee, which feature Langlow base pipline & intrective UI.
+
 ⚡ Fun fact: I love turning ideas into fully working systems that solve real problems.
 
  
