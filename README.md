@@ -25,7 +25,8 @@
 
 ## 🔥 Competitive Programming  
 ### Codeforces  
-[![Codeforces Problems Solved](https://cf-leaderboard-api.vercel.app/solved?handle=prem_d_xd)](https://codeforces.com/profile/prem_d_xd)
+![Codeforces Problems Solved](https://codeforces-readme-stats.vercel.app/api/count?username=prem_d_xd)
+
 
 
 
