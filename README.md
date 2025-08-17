@@ -3,9 +3,9 @@
 ---
 
 ## 🚀 Github Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prem-d-25&theme=react-dark&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-d-25&layout=compact&theme=radical)  
+
 
 ## 🛠 My Technical Skills  
 <p align="center">
@@ -24,9 +24,6 @@
 ---
 
 ## 🔥 Competitive Programming  
-- **LeetCode Profile:**  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prem-d-25?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/)  
-
 - **Codeforces Profile:**  
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=dark)
 
@@ -38,11 +35,6 @@
 - 🔹 [Stylzzy – E-Commerce Website](https://my-shopify-store-six.vercel.app/)  
 
 ---
-
-## 📊 GitHub Stats  
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-d-25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-d-25&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=prem-d-25&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
