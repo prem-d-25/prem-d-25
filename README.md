@@ -11,7 +11,7 @@ Computer Engineering Student | MERN Stack Developer
 ⚡ Fun fact: I love turning ideas into fully working systems that solve real problems.
 
  
-- 🚀 Projects:  
+🚀 Projects:  
   - [RoleMet – AI Resume Screener](https://github.com/prem-d-25/rolemet)  
   - [Tea Insights – Data Analytics + Chatbot](https://tea-insights-app.vercel.app/)  
   - [Stylzzy – E-Commerce Website](https://my-shopify-store-six.vercel.app/)  
