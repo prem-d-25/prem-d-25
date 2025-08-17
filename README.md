@@ -25,7 +25,8 @@
 
 ## 🔥 Competitive Programming  
 ### Codeforces  
-![Codeforces Problems Solved](https://codeforces-readme-stats.vercel.app/api/count?username=prem_d_xd)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prem_d_xd&theme=tokyonight)](https://codeforces.com/profile/prem_d_xd)
+
 
 
 
