@@ -24,8 +24,10 @@
 ---
 
 ## 🔥 Competitive Programming  
-- **Codeforces Profile:**  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prem_d_xd)
+### Codeforces  
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prem_d_xd)](https://codeforces.com/profile/prem_d_xd)  
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=prem_d_xd)
+
 
 ---
 
