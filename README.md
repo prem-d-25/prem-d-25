@@ -1,8 +1,13 @@
 # 👋 Hello, I'm Prem Dave  
 
-Computer Engineering Student | MERN Stack Developer | AI Enthusiast  
+Computer Engineering Student | MERN Stack Developer
 
-- 🔭 Currently working on: **AI-powered Resume Screener & Data Analytics Chatbot** 
+🔭 I’m currently working on enhancing my Role Met project, building real-time analytics and Job finding pltform.
+💛 I’m looking to help with optimizing backend APIs and creating intrective UI.
+💬 Ask me about my Tea Insights and Stylzee, which feature Langlow base pipline & intrective UI.
+⚡ Fun fact: I love turning ideas into fully working systems that solve real problems.
+
+ 
 - 🚀 Projects:  
   - [RoleMet – AI Resume Screener](https://github.com/prem-d-25/role-met)  
   - [Tea Insights – Data Analytics + Chatbot](https://tea-insights-app.vercel.app/)  
