@@ -40,8 +40,6 @@
 
 ---
 
----
-
 ## 🌍 Connect With Me  
 <p>
   <a href="mailto:premdave3705@gmail.com">
